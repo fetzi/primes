@@ -1,0 +1,6 @@
+suites:
+    main:
+        namespace: Karriere\Primes
+        psr4_prefix: Karriere\Primes
+        src_path: src
+        spec_prefix: tests\specs

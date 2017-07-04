@@ -1,0 +1,17 @@
+{
+    "name": "dummy/test",
+    "authors": [
+        {
+            "name": "johannes.pichler",
+            "email": "johannes.pichler@karriere.at"
+        }
+    ],
+    "require": {
+        "phpspec/phpspec": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Karriere\\Primes\\": "src/"
+        }
+    }
+}
